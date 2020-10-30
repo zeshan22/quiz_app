@@ -1,6 +1,6 @@
 # quizer_app
 
-A new Flutter  quiz application.
+A Quiz Maker App is created using Flutter & Firebase at the back-end.This app will allow users to make quiz. Users can play the quiz there is counter also which count can count the correct, incorrect, not-attempted and total.
 
 ## Getting Started
 
