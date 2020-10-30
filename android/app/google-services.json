@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718924616529",
+    "firebase_url": "https://rich-chiller-196506.firebaseio.com",
+    "project_id": "rich-chiller-196506",
+    "storage_bucket": "rich-chiller-196506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718924616529:android:2947151fdf60d2e9003970",
+        "android_client_info": {
+          "package_name": "com.exmp.quizer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718924616529-cd02nd6a3e8ru7c6r3cn14j0tlen076k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlHNR2JvZ6xu991tBSDCpbXEGR7pXt2yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718924616529-cd02nd6a3e8ru7c6r3cn14j0tlen076k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
